@@ -14,7 +14,7 @@ pipeline {
        
         stage('Install') {
             steps {
-                sh 'echo "ki haal"'
+                sh 'echo "ki haall"'
             }
         }
 
